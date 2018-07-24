@@ -5,9 +5,9 @@
   <subtitle>自强不息,厚德载物</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://fumanix.com/"/>
   <updated>2018-07-23T09:03:15.541Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://fumanix.com/</id>
   
   <author>
     <name>fumanix</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/07/23/hello-world/"/>
-    <id>http://yoursite.com/2018/07/23/hello-world/</id>
+    <link href="http://fumanix.com/2018/07/23/hello-world/"/>
+    <id>http://fumanix.com/2018/07/23/hello-world/</id>
     <published>2018-07-23T09:03:15.541Z</published>
     <updated>2018-07-23T09:03:15.541Z</updated>
     
